@@ -25,7 +25,7 @@ inform the user about whether or not a certain article is related to the Forex m
 
 
 
-# Dataset has been used:
+# Dataset:
 
 * [Dataset link](https://archive.ics.uci.edu/ml/datasets/reuters-21578+text+categorization+collection)
 
@@ -106,4 +106,7 @@ capit stock five mln mln share”]
 
 During preprocessing the articles, the common stopwords were removed and new stopwords identified with the help of the wordclouds. Considering the financial nature of articles, all numbers were replaced with the word "num". Stemming was performed - the process of reducing a certain word to its basic root (or stem) in order to make the dataset more compact.
 
+#Model
+
+*readme currently under construction*
 
