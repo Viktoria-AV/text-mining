@@ -4,8 +4,6 @@ Classification of articles from the Reuters dataset
 
 # Text Mining: Classification of articles from the Reuters dataset
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
-
  The Forex market is a
 global marketplace where most of national currencies are traded and it does not
 differ much from the stock market: in the latter, investors try to take advantage of
