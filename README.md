@@ -1,7 +1,3 @@
-# text-mining
-Classification of articles from the Reuters dataset
-
-
 # Text Mining: Classification of articles from the Reuters dataset
 
  The Forex market is a
